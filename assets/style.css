@@ -1,0 +1,13 @@
+body {
+	background-image: url(cball.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.pgame {
+	position: relative;
+	border: 2px solid black;
+	border-margin: 20px 20px 20px 20px;
+	width: 18%;
+	background-color: black;
+	color: white;
+}
